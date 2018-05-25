@@ -363,6 +363,7 @@ End If
 %>
 </table>
 <br>
+test
 
 
 <!--#include file="../../Core/Page_Move.inc" -->
